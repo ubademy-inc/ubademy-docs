@@ -8,7 +8,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username:  Ubademy-inc
 
 # Build settings
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 plugins:
   - jekyll-feed
