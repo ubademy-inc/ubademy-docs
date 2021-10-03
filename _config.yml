@@ -12,3 +12,5 @@ theme: just-the-docs
 search_enabled: true
 plugins:
   - jekyll-feed
+
+aux_links_new_tab: true
