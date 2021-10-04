@@ -9,6 +9,6 @@ has_toc: false
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-[![Deploy](https://github.com/ubademy-inc/ubademy-gateway/actions/workflows/deploy-heroku.yml/badge.svg)](https://github.com/ubademy-inc/ubademy-gateway/actions/workflows/deploy-heroku.yml) [![Linters](https://github.com/ubademy-inc/ubademy-gateway/actions/workflows/linter.yml/badge.svg)](https://github.com/ubademy-inc/ubademy-gateway/actions/workflows/linter.yml)
-
 * [Link al servicio](https://ubademy-gateway.herokuapp.com/)
+
+* [Link al repo](https://github.com/ubademy-inc/ubademy-gateway)

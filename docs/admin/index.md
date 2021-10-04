@@ -8,8 +8,8 @@ has_toc: true
 
 # Sitio Administrador
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-![Deploy](https://github.com/ubademy-inc/ubademy-front/actions/workflows/ubademy.yml/badge.svg)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 * [Link al servicio](https://ubademy-grupo-13.herokuapp.com/)
+
+* [Link al repo](https://github.com/ubademy-inc/ubademy-front)
