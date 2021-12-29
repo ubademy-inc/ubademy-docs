@@ -10,9 +10,7 @@ has_toc: false
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-* [Link a servicio](https://ubademy-grupo-13-examenes.herokuapp.com/)
-
-* [Link a docs de API](https://ubademy-grupo-13-examenes.herokuapp.com/api-docs/)
+* [Link a servicio](https://ubademy-grupo-13-smartcontract.herokuapp.com/wallet)
 
 * [Link al repo](https://ubademy-grupo-13-smartcontract.herokuapp.com/wallet)
 
