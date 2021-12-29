@@ -38,14 +38,14 @@ Las secciones de un curso son las lecciones compuestas por un título, un video 
 
 Es posible agregar, borrar y listar los colaboradores de un curso.
 
-## Alumnos
+### Alumnos
 
 Es posible agregar y listar los alumnos de un curso.
 
-## Comentarios
+### Comentarios
 
 Cualquier persona loggeada en la app puede agregar preguntas sobre los cursos, estas son respondidas por los docentes del curso.
 
-## Métricas 
+### Métricas 
 
 Se optó por pushear las métricas a Prometheus y tener un dashboard en Grafana.

@@ -18,4 +18,10 @@ Se detalla aquí la documentación del proyecto Ubademy - Inc. Desarrollado para
 * Lucía Pardo
 * Ariel Marchesini
 * Federico Elias
-* Florecia Rodríguez
+* Florencia Rodríguez
+
+## Arquitectura utilizada
+
+Se decidió utilizar una arquitectura del tipo Microservicios. Cada servicio se puede ver explicado en su correspondiente sección dentro de microservicios.
+
+Por otra parte se cuenta con una aplicación movile y un administrador web.

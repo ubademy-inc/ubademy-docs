@@ -18,4 +18,13 @@ has_toc: false
 
 ## Descripción
 
-...
+Este servicio es el encargado de todos los exámenes que los cursos crean y luego los alumnos toman. Los mismo pueden también ser corregidos. 
+
+Se decidió utilizar una base de datos del tipo no relacional para este servicio ya que daba una gran libertad a la hora de modelar los exámenes.
+
+## Acciones:
+
+* Crear exámenes
+* Corregir exámenes
+* Dar nota y comentarios a una resolución de exámen
+* Distintos tipos de listados

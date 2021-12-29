@@ -8,3 +8,4 @@ has_children: true
 ### Microservicios
 
 
+<img src="../microservicios/assets/diagrama_1.jpeg" width="500"/>
