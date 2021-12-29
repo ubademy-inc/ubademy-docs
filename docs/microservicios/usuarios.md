@@ -15,4 +15,6 @@ has_toc: false
 
 ## Descripción
 
-...
+Este servicio es el encargado de todos los usuarios que se manejan dentro de Ubademy (tanto los que ingrensan normalmente como los de entidades federadas)
+El mismo está encargado de la sesión de los usuarios, manteniendo siempre un token de sesión para quienes están utilizando la aplicación.
+Finalmente está también encargado de enviar las notificaciones de la app a los distintos usuarios pertinentes.
